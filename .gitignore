@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Local project files
+builds/
+comands.txt
+ideas.txt
+roadmap.txt
